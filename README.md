@@ -1,2 +1,1 @@
-# intro
-File Compression
+# File Compression
